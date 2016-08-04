@@ -1,0 +1,42 @@
+_repo: The-Red-Man-s-Continent--A-Chronicle-of-Aboriginal-America_3066
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Huntington, Ellsworth
+    alias: Huntington, E. (Ellsworth)
+    birthdate: 1876
+    deathdate: 1947
+    gutenberg_agent_id: '1106'
+    url: http://www.gutenberg.org/2009/agents/1106
+    wikipedia: http://en.wikipedia.org/wiki/Ellsworth_Huntington
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- United States
+- Children's History
+- Native America
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3066'
+language: en
+publication_note: 'New Haven :  Yale University Press,  1919'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 01
+subjects:
+- !lcsh 'Human geography -- North America'
+- !lcsh 'Physical geography -- North America'
+- !lcc 'GF'
+- !lcsh 'Indians of North America'
+- !lcc 'E151'
+- GITenberg
+title: 'The Red Man''s Continent: A Chronicle of Aboriginal America'
+url: http://www.gutenberg.org/ebooks/3066
